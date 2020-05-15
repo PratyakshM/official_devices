@@ -1,0 +1,6 @@
+A few battery improvements
+Fixed idle battery drain
+Fixed issues with deep sleep
+Enabled additional 1080p FullHD resolution playback option for YouTube videos
+Fixed notification LED issues
+Using coral May build fingerprint
